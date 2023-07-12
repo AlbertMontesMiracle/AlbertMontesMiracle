@@ -4,25 +4,19 @@ Soy un aspirante a desarrollador de aplicaciones con formación en Desarrollo de
 
 ## 👨‍💻 Habilidades técnicas
 
-Mis estudios me han permitido familiarizarme con varios lenguajes y tecnologías, incluyendo:
+Mis estudios me han permitido familiarizarme con varios lenguajes, tecnologías y herramientas, incluyendo:
 
-- Java ☕
-- SQL 🛢️
-- HTML5 🌐
-- CSS3 🎨
+- Lenguajes: Java ☕, SQL 🛢️, HTML5 🌐, CSS3 🎨
+- Sistemas gestores de bases de datos: pgAdmin, MySQL, phpMyAdmin, PostgreSQL
+- Herramientas de colaboración y versionado: Git, GitHub
 
-Además, he trabajado con varios IDEs:
-
-- NetBeans
-- Visual Studio Code
-- Visual Studio
-- IntelliJ
-- Eclipse
-- Android Studio
+Además, he tenido experiencia con varios IDEs de desarrollo.
 
 ## 🌱 Aprendizaje continuo
 
-Soy una persona que disfruta enfrentándose a nuevos retos y siempre busco la solución más adecuada y efectiva. La tecnología y el desarrollo de software son campos que evolucionan rápidamente, y estoy en un camino de aprendizaje constante. Los próximos lenguajes y tecnologías que planeo explorar son:
+Soy una persona que disfruta enfrentándose a nuevos retos y siempre busca la solución más adecuada y efectiva. Para mantenerme actualizado en este campo de rápido movimiento, intento informarme sobre las principales herramientas y tecnologías en uso común entre los desarrolladores y participar en cursos de plataformas como OpenWebinars, OpenBootcamp, Udemy y otras.
+
+Los próximos lenguajes y tecnologías que planeo explorar son:
 
 - JavaScript
 - Python
@@ -44,4 +38,4 @@ Fuera del desarrollo de software, soy un apasionado de la tecnología en general
 
 Si estás interesado en mi perfil, no dudes en contactarme. Me encantaría saber más sobre las oportunidades que tu empresa podría tener para un desarrollador como yo.
 
-[LinkedIn](https://linkedin.com/in/albert-montes-miracle)
+[LinkedIn](https://linkedin.com/in/tu-nombre-de-usuario)
