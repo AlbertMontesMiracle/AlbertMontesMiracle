@@ -1,6 +1,6 @@
 # Hola, soy Albert! 👋
 
-Soy un aspirante a desarrollador de aplicaciones con formación en Desarrollo de Aplicaciones Multiplataforma. Aunque no tengo experiencia profesional todavía, soy una persona proactiva, dinámica y resolutiva que está lista y emocionada para sumergirme en el mundo del desarrollo y hacer su aportación. 🚀
+Soy un aspirante a desarrollador de aplicaciones con formación en Desarrollo de Aplicaciones Multiplataforma. Aunque no tengo experiencia profesional todavía, soy una persona proactiva, dinámica y resolutiva que está lista y emocionada para sumergirse en el mundo del desarrollo y hacer su aportación. 🚀
 
 ## 👨‍💻 Habilidades técnicas
 
