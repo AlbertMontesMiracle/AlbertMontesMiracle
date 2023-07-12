@@ -6,7 +6,7 @@ Soy un aspirante a desarrollador de aplicaciones con formación en Desarrollo de
 
 Mis estudios me han permitido familiarizarme con varios lenguajes, tecnologías y herramientas, incluyendo:
 
-- Lenguajes: Java ☕, SQL 🛢️, HTML5 🌐, CSS3 🎨, XML, JSON, PHP 
+- Lenguajes: Java ☕, SQL 🛢️, HTML5 🌐, CSS3 🎨, XML, JSON, PHP (en orden descendente de familiaridad)
 - Sistemas gestores de bases de datos: pgAdmin, MySQL, phpMyAdmin, PostgreSQL
 - Herramientas de colaboración y versionado: Git, GitHub
 
@@ -38,4 +38,8 @@ Fuera del desarrollo de software, soy un apasionado de la tecnología en general
 
 Si estás interesado en mi perfil, no dudes en contactarme. Me encantaría saber más sobre las oportunidades que tu empresa podría tener para un desarrollador como yo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/albert-montes-miracle-318670240)
+<p align="center">
+  <a href="https://linkedin.com/in/albert-montes-miracle-318670240" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
