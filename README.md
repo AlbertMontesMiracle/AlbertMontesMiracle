@@ -38,4 +38,4 @@ Fuera del desarrollo de software, soy un apasionado de la tecnología en general
 
 Si estás interesado en mi perfil, no dudes en contactarme. Me encantaría saber más sobre las oportunidades que tu empresa podría tener para un desarrollador como yo.
 
-[LinkedIn](https://linkedin.com/in/tu-nombre-de-usuario)
+[LinkedIn](https://linkedin.com/in/albert-montes-miracle-318670240)
