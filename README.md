@@ -18,6 +18,7 @@ Soy una persona que disfruta enfrentándose a nuevos retos y siempre busca la so
 
 Los próximos lenguajes y tecnologías que planeo explorar son:
 
+- Kotlin
 - JavaScript
 - Python
 - C#
